@@ -1,1 +1,8 @@
-tohle je zkurvenej popis papíru co budu dělat
+# prvnipokus
+repozitar na githubu
+## podnapis
+tenhle repository je prazdny a obsahuje
+- nic
+- nulu
+- Null
+- 
