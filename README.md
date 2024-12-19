@@ -1,2 +1,1 @@
-# prvnipokus
-panska first try
+tohle je zkurvenej popis papíru co budu dělat
