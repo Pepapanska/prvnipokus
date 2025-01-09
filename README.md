@@ -6,3 +6,27 @@ tenhle repository je prazdny a obsahuje
 - nulu
 - Null
 -delam to pro skolu uz zase 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## druhy podnadpis je pekne dole
+-ha ha co treba ulozit steamrip-ma to 8giga xd
