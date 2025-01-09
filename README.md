@@ -29,4 +29,5 @@ tenhle repository je prazdny a obsahuje
 
 
 ## druhy podnadpis je pekne dole
--ha ha co treba ulozit steamrip-ma to 8giga xd
+-steamcream rip r84 
+https://github.com/ubden/CreamApi/tree/main/CreamInstaller
